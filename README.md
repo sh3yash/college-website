@@ -7,7 +7,7 @@ Design a college website using WEB3JS Technology to provide essential informatio
 
 - [Features](#features)
 - [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
+- [Live Project](#live-project)
 - [Contributing](#contributing)
 
 ## Features
@@ -20,6 +20,7 @@ Design a college website using WEB3JS Technology to provide essential informatio
 - **Faculty Page:** Directory of faculty members with profiles and contact details.
 - **Academics Page:** Information on academic programs, departments, and course offerings.
 - **Contact Page:** Contact form, campus map, and social media links for engagement.
+
 
 ## Installation and Setup
 
@@ -35,5 +36,24 @@ Ensure you have the following installed on your machine:
 
 Open a terminal and run the following command to clone the repository:
 
-```bash
-git clone https://github.com/username/repository-name.git
+    ```bash
+    git clone https://github.com/sh3yash/college-website.git
+    
+
+## Live Project
+
+You can view a live demo of the project [here](https://665b2a827c1671b54dc02d08--fluffy-buttercream-4e7abb.netlify.app/).
+
+
+
+## Contributing
+
+We welcome contributions from the community! Whether you're fixing a bug, adding a new feature, or improving documentation, we appreciate your help in making this project better.
+
+
+
+
+
+
+
+
